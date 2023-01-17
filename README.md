@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Karabo-Dikolomela/Karabo-Dikolomela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### About Me
+## About Me
 “I am an entry-level Software Developer. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course.
 
 ###### Languages
-[<img align="left" alt="Javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>JavaScript  MySQL PHP
+JavaScript
+<img align="left" alt="Javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>  
 
-#Technologies
+MySQL 
+<img align="left" alt="MySQL" width="40px" src="https://icongr.am/devicon/mysql-original-wordmark.svg"/>
+
+PHP
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-plain.svg"
+
+###### Technologies
 Bootsrap
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg"
 
-#Other
+###### Other
 HTML
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/html5-original-wordmark.svg"
 
+CSS
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/css3-original-wordmark.svg"
+
+###### Connect With Me
