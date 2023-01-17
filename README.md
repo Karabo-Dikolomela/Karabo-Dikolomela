@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 “I am an entry-level Software Developer. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course.
 
 ###### Languages
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] JavaScript  MySQL PHP
+![github][<img align="left" alt="Javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>[github] JavaScript  MySQL PHP
 
 #Technologies
 Bootsrap
