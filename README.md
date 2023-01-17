@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-“I am an entry-level Software Developer. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course.
+I am Karabo Dikolomela, an entry-level Software Developer. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course.
 
-###### Languages
+#### Languages
 JavaScript
 <img align="left" alt="Javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>  
 
@@ -27,15 +27,15 @@ MySQL
 PHP
 <img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-original.svg"/><br/><br/><br/><br/>
 
-###### Technologies
+#### Technologies
 Bootsrap
 <img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg"/><br/><br/><br/><br/>
 
-###### Other
+#### Other
 HTML
 <img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/html5-original-wordmark.svg"/>
 
 CSS
 <img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/css3-original-wordmark.svg"/><br/><br/><br/><br/>
 
-###### Connect With Me
+#### Connect With Me
