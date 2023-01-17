@@ -25,7 +25,7 @@ MySQL
 <img align="left" alt="MySQL" width="40px" src="https://icongr.am/devicon/mysql-original-wordmark.svg"/>
 
 PHP
-<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-plain.svg"
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"
 
 ###### Technologies
 Bootsrap
