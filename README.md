@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##About Me
+“I am an entry-level Software Developer. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course.
+
+#Languages
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo ColJavaScript  MySQL PHP
+
+#Technologies
+Bootsrap
+
+#Other
+HTML
+
