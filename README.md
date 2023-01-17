@@ -25,17 +25,17 @@ MySQL
 <img align="left" alt="MySQL" width="40px" src="https://icongr.am/devicon/mysql-original-wordmark.svg"/>
 
 PHP
-<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-original.svg"/><br/>
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-original.svg"/><br/><br/><br/><br/>
 
 ###### Technologies
 Bootsrap
-<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg"/><br/>
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg"/><br/><br/><br/><br/>
 
 ###### Other
 HTML
 <img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/html5-original-wordmark.svg"/>
 
 CSS
-<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/css3-original-wordmark.svg"/><br/>
+<img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/css3-original-wordmark.svg"/><br/><br/><br/><br/>
 
 ###### Connect With Me
