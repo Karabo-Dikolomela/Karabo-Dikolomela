@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I am <u>Karabo Dikolomela<u/>, an entry-level Software Developer. I am a recent graduate from <i>CodeSpace Academy</i>, where I completed a Software Development course.
+I am <strong>Karabo Dikolomela<strong/>, an entry-level Software Developer. I am a recent graduate from <i>CodeSpace Academy</i>, where I completed a Software Development course.
 
 #### Languages
 JavaScript
