@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I am Karabo Dikolomela and I am passionate about learning new technologies. I haven't quite found my footing yet but I am excited to see where I land🌱. I'd like to extend my gratitude to <a href="https://www.codespace.co.za/" target="_blank">CodeSpace Academy</a> for getting me started on my career as a developer and for all the support they have given me since. I am currently looking for a new job where I can continue being awesome!😄
+I am Karabo Dikolomela and I am passionate about learning new technologies. I haven't quite found my footing yet but I am excited to see where I land🌱. I'd like to extend my gratitude to <a href="https://www.codespace.co.za/" target="_blank">CodeSpace Academy</a> for getting me started on my career as a developer and for all the support they have given me since and a special thank you to <a href="https://github.com/DaveRizzle">David Robertson</a> for all the support and all you've taught me, hope my next manager is as great as you are. I am currently looking for a new job where I can continue being awesome!😄
 
 <br>
 
