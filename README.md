@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 I am Karabo Dikolomela, an entry-level Software Developer. I am a recent graduate from <i>CodeSpace Academy</i>, where I completed a Software Development course.
 
 #### Languages
-JavaScript
+
+#####JavaScript
 <img align="left" alt="Javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/><br>  
 
-MySQL 
+#####MySQL 
 <img align="left" alt="MySQL" width="40px" src="https://icongr.am/devicon/mysql-original-wordmark.svg"/><br>
 
-PHP
+#####PHP
 <img align="left" alt="PHP" width="40px" src="https://icongr.am/devicon/php-original.svg"/><br/><br/><br/><br/>
 
 #### Technologies
